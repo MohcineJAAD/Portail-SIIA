@@ -1,7 +1,7 @@
-# 🌐 Portail SIIA – Système Informatique et Intelligence Artificielle
+# 🌐 Portail SIIA – Système Information et Intelligence Artificielle
 
 ## 📖 Description
-Le **Portail SIIA** est une plateforme web statique conçue pour présenter un système informatique orienté vers l’intelligence artificielle. Elle propose une interface moderne, responsive et intuitive permettant d'accéder à diverses sections : présentation du système, des modules, de l'équipe, et formulaire de contact.
+Le **Portail SIIA** est une plateforme web statique conçue pour présenter un système Information orienté vers l’intelligence artificielle. Elle propose une interface moderne, responsive et intuitive permettant d'accéder à diverses sections : présentation du système, des modules, de l'équipe, et formulaire de contact.
 
 ## 🚀 Fonctionnalités principales
 - ✅ Design responsive (mobile, tablette, desktop)
